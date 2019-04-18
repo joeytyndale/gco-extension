@@ -1,8 +1,8 @@
 {
   "manifest_version": 2,
   "name": "Get LiL Course ID and Enterprise account info",
-  "version": "1.89",
-  "description": "Grabs the course Id from LinkedIn Learning",
+  "version": "2.3",
+  "description": "Grabs the course Id from LinkedIn Learning - V2.0 adds additional functionality",
 
   "icons": {
     "48": "images/courseId.png"
