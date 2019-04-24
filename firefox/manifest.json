@@ -1,0 +1,19 @@
+{
+  "manifest_version": 2,
+  "name": "GCO Tool",
+  "version": "2.4",
+  "description": "Grabs the course Id from LinkedIn Learning - V2.0 adds additional functionality",
+
+  "icons": {
+    "48": "images/courseId.png"
+  },
+  
+  "permissions": [
+    "activeTab",
+    "contextMenus"
+  ],
+  
+  "background": {
+    "scripts": ["background.js"]
+  }  
+}
