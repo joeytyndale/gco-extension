@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "GCO Tool",
-  "version": "2.4",
+  "version": "2.6",
   "description": "Grabs the course Id from LinkedIn Learning - V2.0 adds additional functionality",
 
   "icons": {
