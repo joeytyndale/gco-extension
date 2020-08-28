@@ -1,10 +1,9 @@
 {
-    "name": "GCO Tool",
-    "version": "1.1",
+    "name": "Course ID Tool",
+    "version": "1.3",
     "description": "Adds browser functionality for LLS",
     "permissions": [
     	"activeTab",
-	    "storage",
 	    "declarativeContent",
 	    "contextMenus"
     ],
